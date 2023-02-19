@@ -1,0 +1,15 @@
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/bin/Debug/net7.0/TestDemo
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/bin/Debug/net7.0/TestDemo.deps.json
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/bin/Debug/net7.0/TestDemo.runtimeconfig.json
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/bin/Debug/net7.0/TestDemo.dll
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/bin/Debug/net7.0/TestDemo.pdb
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/TestDemo.csproj.AssemblyReference.cache
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/TestDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/TestDemo.AssemblyInfoInputs.cache
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/TestDemo.AssemblyInfo.cs
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/TestDemo.csproj.CoreCompileInputs.cache
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/TestDemo.dll
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/refint/TestDemo.dll
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/TestDemo.pdb
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/TestDemo.genruntimeconfig.cache
+/Users/rustamkeneev/Downloads/LearnC#/TestDemo/obj/Debug/net7.0/ref/TestDemo.dll
